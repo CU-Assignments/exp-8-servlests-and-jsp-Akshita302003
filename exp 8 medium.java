@@ -11,9 +11,9 @@ CREATE TABLE employees (
 );
 
 INSERT INTO employees (id, name, department, salary) VALUES
-(1, 'Harshit Mishra', 'HR', 60000.00),
+(1, 'Akshita', 'HR', 60000.00),
 (2, 'Aniket', 'Finance', 75000.00),
-(3, 'Akshita Sharma', 'IT', 85000.00),
+(3, 'Harshit Sharma', 'IT', 85000.00),
 (4, 'Arpit Mahajan', 'Marketing', 70000.00);
 
 //Java Servlet (EmployeeServlet.java)
